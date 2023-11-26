@@ -1,5 +1,10 @@
 
 ## Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px">
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+<br>
 I'm HilmiStd, a passionate and aspiring backend developer who's currently on the exciting journey of learning and mastering the art of coding. As a beginner in the vast world of development, I'm eager to explore new possibilities and build robust solutions.
 
 ## About Me
@@ -23,7 +28,4 @@ I'm diving into various technologies and tools, and I'm open to exploring the be
   <img src="https://github-readme-stats.vercel.app/api?username=HilmiStd&hide=stars&show_icons=true&theme=dracula&line_height=32">
 </p>
 <br>
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
