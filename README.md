@@ -25,5 +25,5 @@ I'm diving into various technologies and tools, and I'm open to exploring the be
 
 ## Github Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HilmiStd&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  <img src="https://github.com/HilmiStd/HilmiStd/assets/147703897/7c9d4460-9a64-485e-883f-819a9222d8a0">
 </p>
