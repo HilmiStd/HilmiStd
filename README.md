@@ -1,7 +1,6 @@
 
 <h4> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
-Kan ipsum dolor sit amet, consectetur adipiscing elit. Sed kan do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure kan in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat kan non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-<br>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed kan do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure kan in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat kan non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br />
  
 
 **Languages and Tools:**
