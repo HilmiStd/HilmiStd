@@ -1,5 +1,5 @@
 
-<h4> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
+## Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px">
 I'm HilmiStd, a passionate and aspiring backend developer who's currently on the exciting journey of learning and mastering the art of coding. As a beginner in the vast world of development, I'm eager to explore new possibilities and build robust solutions.
 
 ## About Me
@@ -18,7 +18,7 @@ I'm diving into various technologies and tools, and I'm open to exploring the be
   </div>
 </p>
 
-**Github Stats:**
+## Github Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HilmiStd&hide=stars&show_icons=true&theme=dracula&line_height=32">
 </p>
