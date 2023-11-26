@@ -1,9 +1,16 @@
 
 <h4> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed kan do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure kan in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat kan non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br>
- 
+I'm HilmiStd, a passionate and aspiring backend developer who's currently on the exciting journey of learning and mastering the art of coding. As a beginner in the vast world of development, I'm eager to explore new possibilities and build robust solutions.
 
-**Languages and Tools:**
+## About Me
+
+- 💻 I focus primarily on backend development.
+- 📚 I'm currently in the early stages of my learning journey.
+- 🌱 I believe in the power of continuous learning and improvement.
+
+## Tech Stack
+
+I'm diving into various technologies and tools, and I'm open to exploring the best practices that will help me become a proficient developer. My current focus includes:
 
 <p align="center">
   <div align="center">
