@@ -27,5 +27,5 @@ I'm diving into various technologies and tools, and I'm open to exploring the be
 
 ## Github Stats:
 <p align="center">
-  <img src="https://github.com/HilmiStd/HilmiStd/assets/147703897/7c9d4460-9a64-485e-883f-819a9222d8a0">
+  <img src="https://github.com/HilmiStd/HilmiStd/assets/147703897/4c913f87-718b-405f-9ec3-9c7303b58a76">
 </p>
