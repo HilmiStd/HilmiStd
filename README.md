@@ -20,7 +20,7 @@ I'm diving into various technologies and tools, and I'm open to exploring the be
 <p align="center">
   <div align="center">
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code><code><img height="40" src="https://github.com/HilmiStd/HilmiStd/assets/147703897/0d9dcf7c-257e-4ab4-8c22-85625dc028ba"></code> 
-    
+    <code><img height="40" src="https://github.com/HilmiStd/HilmiStd/assets/147703897/b7f130af-4f46-470f-a42e-93de62993751"></code>
 
   </div>
 </p>
