@@ -21,7 +21,7 @@ I'm diving into various technologies and tools, and I'm open to exploring the be
   <div align="center">
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code><code><img height="40" src="https://github.com/HilmiStd/HilmiStd/assets/147703897/0d9dcf7c-257e-4ab4-8c22-85625dc028ba"></code> 
    </code><code><img height="40" src="https://github.com/HilmiStd/HilmiStd/assets/147703897/434ad683-adbd-4cda-a2be-73d95a66adc6"></code> <code><img height="40" src="https://github.com/HilmiStd/HilmiStd/assets/147703897/7da7bed4-b3bc-44ca-a1d1-a7a839bd88a9"></code> <code><img height="40" src="https://github.com/HilmiStd/HilmiStd/assets/147703897/b7f130af-4f46-470f-a42e-93de62993751"></code><code><img height="40" src="https://github.com/HilmiStd/HilmiStd/assets/147703897/264d8c92-4a67-4089-b72e-6c5fd8450e2b"></code>
-    <code><img height="40" src="https://github.com/HilmiStd/HilmiStd/assets/147703897/ff1bc53f-c5b7-4062-be94-b9a4edb0e083"></code>
+    <code><img height="40" src="https://github.com/HilmiStd/HilmiStd/assets/147703897/ff1bc53f-c5b7-4062-be94-b9a4edb0e083"></code><code><img height="40" src="https://github.com/HilmiStd/HilmiStd/assets/147703897/57143ba7-7ae0-42bb-96a8-9432041c7498"></code>
   </div>
 </p>
 
