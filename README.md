@@ -25,7 +25,7 @@ I'm diving into various technologies and tools, and I'm open to exploring the be
   </div>
 </p>
 
-## Github Stats:
+## Github Stats
 <p align="center">
   <img src="https://github.com/HilmiStd/HilmiStd/assets/147703897/4c913f87-718b-405f-9ec3-9c7303b58a76">
 </p>
